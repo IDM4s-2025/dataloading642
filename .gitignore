@@ -171,7 +171,4 @@ cython_debug/
 .pypirc
 
 # files
-.csv
-gender_submission.csv
-test.csv
-train.csv
+*.csv
